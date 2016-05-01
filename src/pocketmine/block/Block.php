@@ -275,11 +275,11 @@ class Block extends Position implements Metadatable{
 	const STONECUTTER = 245;
 	const GLOWING_OBSIDIAN = 246;
 	
-	const ACACIA_DOOR = 430; // new doors, this might be broken.
-	const SPRUCE_DOOR = 427;
-	const BIRCH_DOOR = 428;
-	const JUNGLE_DOOR = 429;
-	const DARK_OAK_DOOR = 431;
+	const ACACIA_DOOR = 196; // new doors, this might be broken.
+	const SPRUCE_DOOR = 193;
+	const BIRCH_DOOR = 194;
+	const JUNGLE_DOOR = 195;
+	const DARK_OAK_DOOR = 197;
 	
 
 	/** @var \SplFixedArray */
